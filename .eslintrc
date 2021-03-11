@@ -1,0 +1,11 @@
+{
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "extends": "standard",
+    "env": {
+        "es6": true,
+        "jest": true,
+        "node": true
+    }
+}
